@@ -9,5 +9,14 @@
     * https://docs.microsoft.com/zh-tw/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 
   * Azure Data Studio
     * https://docs.microsoft.com/zh-tw/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+* 雲端資源： 
+  * 免安裝雲端資料庫練習
+    * https://sqliteonline.com/
+  * Azure 雲端 SQL Server
+    * https://azure.microsoft.com/zh-tw/free/sql-on-azure/ 
+  * Google Cloud SQL Server 
+    * https://cloud.google.com/sql-server
+  * Google Colab
+    * https://colab.research.google.com/ 
 
 ## Youtube 教學
