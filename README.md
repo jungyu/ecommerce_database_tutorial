@@ -20,3 +20,6 @@
     * https://colab.research.google.com/ 
 
 ## Youtube 教學
+
+* SQL Server 2019 Express 與 SQL Server Management Studio (SSMS) 安裝指引
+  * https://youtu.be/e9ExmR5nkhk 
