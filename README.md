@@ -10,6 +10,8 @@
   * Azure Data Studio
     * https://docs.microsoft.com/zh-tw/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
 * 雲端資源： 
+  * Azure 學生版
+    * https://azure.microsoft.com/zh-tw/pricing/offers/ms-azr-0170p/  
   * 免安裝雲端資料庫練習
     * https://sqliteonline.com/
   * Azure 雲端 SQL Server
